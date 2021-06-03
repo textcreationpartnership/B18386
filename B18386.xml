@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new ballad of King Edvard and Iane Shore. To the tune of, St. George for England [and] the dragon.</title>
+            <author>Butler, Samuel, 1612-1680.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18386</idno><idno type="EEBO-CITATION">99884706</idno>
+  <idno type="VID">192748</idno>
+  <idno type="EEBO-PROQUEST">2264210110</idno>
+  
+            <idno type="STC">Wing B6326</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.9[258]</idno>
+            <idno type="STC">ESTC R216193</idno>
+            <idno type="PROQUEST">ocm99884706</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884706e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18386)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192748)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:1[149])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new ballad of King Edvard and Iane Shore. To the tune of, St. George for England [and] the dragon.</title>
+                  <author>Butler, Samuel, 1612-1680.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>printed, 1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Samuel Butler. Cf. Wing (2nd ed.).</note>
+                  <note>Verse: "Why should we boast of Lais and his knights?".</note>
+                  <note>Imperfect: copy folded, affecting some text and title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Edward --  IV, --  King of England, 1442-1483 --  Poetry --  Early works to 1800.</term>
+               <term type="personal_name">Shore, Jane, d. 1527 --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:192748:1"/>
+            <pb facs="tcp:192748:1"/>
+            <head>
+               <hi>A New <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> o<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> King</hi> Edvard <hi>and</hi> Iane Shore.</head>
+            <opener>
+               <hi>To the Tune of,</hi> St. George for England and the Dragon.</opener>
+            <p>
+               <figure>
+                  <figDesc>woodcuts</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>WHy should we boast of <hi>Lais</hi> and his Knights?</l>
+               <l>knowing such Champions, entrapt by Whorish lights,</l>
+               <l>Or why should we speak of <hi>Thais</hi> curled locks,</l>
+               <l>Or <hi>Rodophe</hi> that gave so many men the Pox,</l>
+               <l>Read old stories and there you shall find,</l>
+               <l>How <hi>Jane Shore, Jane Shore,</hi> she pleas'd King <hi>Edwards</hi> mind.</l>
+               <l>
+                  <hi>Jane Shore <hi>she was for</hi> England, <hi>Queen</hi> Fredrick <hi>was for</hi> France, Honi soit qui mal y pence.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To speak of the <hi>Amazons</hi> it were too long to tell,</l>
+               <l>And likewise of he <hi>Thracian</hi> Girls how far they did excel;</l>
+               <l>Those with <hi>Scythian</hi> Lads, engag'd in several Fights,</l>
+               <l>And in the brade <hi>Venetian</hi> Wars, did foil adventurous Knights</l>
+               <l>
+                  <hi>Marsaline</hi> and <hi>Julia</hi> were vessels wondrous brittle,</l>
+               <l>But <hi>Jane Shore, Jane Shore</hi> took down King <hi>Edwards</hi> mettle;</l>
+               <l>
+                  <hi>Jane Shore <hi>she was, &amp;c.</hi>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Thallestis</hi> of <hi>Thormydon</hi> she was a doubty weight,</l>
+               <l>She conquered <hi>Pallas</hi> King in the exercise of Night:</l>
+               <l>
+                  <hi>Hercules</hi> flew the Draggon, whose téeth were all of Brass,</l>
+               <l>Yet he himself became a slave unto the <hi>Lydian</hi> Lass.</l>
+               <l>The <hi>Theban Semule</hi> lay with <hi>Jove</hi> not dreading all his thunder</l>
+               <l>But <hi>Jane Shore</hi> overcame King <hi>Edward</hi> although he had her under:</l>
+               <l>
+                  <hi>Jane Shore <hi>she was, &amp;c.</hi>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Hellen</hi> of <hi>Greece</hi> she came of <hi>Spartian</hi> blood,</l>
+               <l>
+                  <hi>Agricola</hi> and <hi>Cressida</hi> they were brave Whores and good;</l>
+               <l>Quéen <hi>Clytemnestra</hi> boldly slew old <hi>Arthurs</hi> mighty Son,</l>
+               <l>And fair <hi>Harcyon</hi> pull'd down the strength of <hi>Tallamon,</hi>
+               </l>
+               <l>Those were the Ladies that caus'd the <hi>Trojan</hi> Sack,</l>
+               <l>But <hi>Jane shore, Jane Shore,</hi> she spoil'd King <hi>Edwards back.</hi>
+               </l>
+               <l>
+                  <hi>Jane Shore <hi>she was, &amp;c.</hi>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For this the ancient Fathers did, great <hi>Venus</hi> deifie,</l>
+               <l>Because with her own Father <hi>Jove,</hi> sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> feared not to lye,</l>
+               <l>Hence <hi>Cupid</hi> came who afterward reveng'd his loving Mother</l>
+               <l>And made kind <hi>Biblis</hi> do the like with <hi>Cornus</hi> her own Brother</l>
+               <l>And afterwards the Goddess kept <hi>Adonis</hi> for reserve,</l>
+               <l>But <hi>Jane Shore, Jane Shore,</hi> she stretch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> King <hi>Edwards</hi> Nerve,</l>
+               <l>
+                  <hi>Jane Shore <hi>she was, &amp;c.</hi>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The <hi>Colchean Dame, Maedea</hi> her Father did betray,</l>
+               <l>And taught her Lover <hi>Jason</hi> how the vig<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ant Bull to slay:</l>
+               <l>And after thence convey'd her Fathers g<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>den fléece,</l>
+               <l>She with her Lover sail'd away in <hi>Argus</hi> ship to <hi>Greece;</hi>
+               </l>
+               <l>But finding <hi>Jason</hi> false, she burnt his Wife and Court,</l>
+               <l>But <hi>Jane Shore, Jane Shore,</hi> she shew'd King <hi>Edward</hi> sport:</l>
+               <l>
+                  <hi>Jane Shore <hi>she was, &amp;c.</hi>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Romix</hi> of <hi>Saxoni,</hi> the <hi>Welsh</hi> state overthrew,</l>
+               <l>
+                  <hi>Igraeyn</hi> of <hi>Cornwal, Pendragon</hi> did subdut,</l>
+               <l>Quéen <hi>Quiniver</hi> with <hi>Arthur</hi> fought singly hand to hand</l>
+               <l>In Bed, though afterward she made horns on his head to stand;</l>
+               <l>And to Sir <hi>Mordred pictish</hi> Prince a Paramore became,</l>
+               <l>But <hi>Jane Shore, Jane Shore,</hi> she made King <hi>Edward</hi> tame.</l>
+               <l>
+                  <hi>Jane Shore <hi>she was, &amp;c.</hi>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Marosia</hi> of <hi>Italy</hi> sée how she stoutly copes,</l>
+               <l>With <hi>Jesuits Priest,</hi> &amp; <hi>Cardinals,</hi> &amp; tripple trowned <hi>Popes,</hi>
+               </l>
+               <l>And with King <hi>Henry, Rosamond</hi> spent many a dallying hour,</l>
+               <l>Till lastly poysoned by the Quéen in <hi>Woodstock</hi> fatal Bower,</l>
+               <l>And <hi>Joan</hi> of <hi>Ark</hi> plaid in y<seg rend="sup">e</seg> dark, with y<seg rend="sup">e</seg> knights of <hi>Languidock,</hi>
+               </l>
+               <l>But <hi>Jane Shore</hi> met King <hi>Enward</hi> &amp; gave him knock for knock:</l>
+               <l>
+                  <hi>Jane Shore <hi>she was, &amp;c.</hi>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Pasipha</hi> we know plaid feats with the <hi>Cretan Bull,</hi>
+               </l>
+               <l>And <hi>Proserpine</hi> though so divine, became black <hi>Plutoes</hi> Trull;</l>
+               <l>the <hi>Spanish Bawd</hi> her strumpets taught to lay their legs astride</l>
+               <l>But these and all the Curtezans <hi>Jane Shore</hi> did them deride;</l>
+               <l>
+                  <hi>Pope Joan</hi> was right, although she did the <hi>Pabal</hi> Scepter weild</l>
+               <l>But <hi>Jane Shore, Jane Shore,</hi> she made King <hi>Edward</hi> yield:</l>
+               <l>
+                  <hi>Jane Shore <hi>she was, &amp;c.</hi>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Agathoclya</hi> and <hi>Aeanthe</hi> did govern <hi>Aegypts</hi> King,</l>
+               <l>The witty wench of <hi>Andover</hi> she was a pretty thing;</l>
+               <l>She fréely took her Ladies place, and with great <hi>Edgar</hi> dallyed</l>
+               <l>&amp; with main force she foyl'd him quite, although he often rally'd</l>
+               <l>For which brave act, he that her rackt, gave her his Ladies land</l>
+               <l>But <hi>Jane Shore, Jane Shore,</hi> King <hi>Edward</hi> did command:</l>
+               <l>
+                  <hi>Jane Shore <hi>she was, &amp;c.</hi>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Of <hi>Phryne</hi> and of <hi>Lamva</hi> Historians have related,</l>
+               <l>How their illustrious beauties, two Generals captivated;</l>
+               <l>And they that in the days of yore kil'd men &amp; sackt their Cities</l>
+               <l>In honour of their Mistresses, composed amorous Ditties;</l>
+               <l>Let <hi>Flora</hi> gay, with <hi>Romans</hi> play, and be a Goddess call'd,</l>
+               <l>But <hi>Jane Shore, Jane Shore,</hi> King <hi>Edward</hi> she enthral'd.</l>
+               <l>
+                  <hi>Jane Shore <hi>she was, &amp;c.</hi>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The jolly Tanners Daughter Harlot of <hi>Normandy,</hi>
+               </l>
+               <l>She onely had the happiness to please Duke <hi>Roberts</hi> eye,</l>
+               <l>And <hi>Roxoliana</hi> though a slave, and born a <hi>Grecian,</hi>
+               </l>
+               <l>Could with a nod, command and rule grand Seignior <hi>Sollyman</hi>
+               </l>
+               <l>And <hi>Naples Joan,</hi> would make them groan, y<seg rend="sup">e</seg> ardently did lov'er</l>
+               <l>But <hi>Jane Shore, Jane Shore,</hi> King <hi>Edward</hi> he did Shov'er;</l>
+               <l>
+                  <hi>Jane Shore <hi>she was, &amp;c.</hi>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Aspatia</hi> doth of the <hi>Persian</hi> brothers boast,</l>
+               <l>Though <hi>Scinthya</hi> joy in y<seg rend="sup">e</seg>
+                  <hi>Lampthean</hi> boy, <hi>Jane Shore</hi> shall rule the roast,</l>
+               <l>
+                  <hi>Cleopatra</hi> lov'd <hi>Mark Anthony,</hi> and <hi>Brownal</hi> she did feats,</l>
+               <l>But compared to our <hi>Virago</hi> they were but méerly cheats;</l>
+               <l>Brave Carpit Knights, in <hi>Cupids</hi> fights, their milk-white Rapiers drew,</l>
+               <l>But <hi>Jane Shore, Jane Shore,</hi> King <hi>Edward</hi> did subdue:</l>
+               <l>
+                  <hi>Jane Shore <hi>she was, &amp;c.</hi>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Hamlets</hi> incestuous mother, was <hi>Gartherrud Denmarks</hi> Quéen</l>
+               <l>And <hi>Circe</hi> that inchanting Witch, the like was scarcely séen,</l>
+               <l>Warlike <hi>Penthasillia</hi> was an <hi>Amazonian</hi> Whore,</l>
+               <l>To <hi>Hector</hi> and young <hi>Troyalus,</hi> both which did her adore,</l>
+               <l>But brave King <hi>Edward</hi> who before had gain'd nine victories,</l>
+               <l>Was like a bonslave fettered with <hi>Jane Shore</hi> all-conquering Thighs.</l>
+               <l>
+                  <hi>Jane Shore <hi>she was for</hi> England, <hi>Queen</hi> Fredrick <hi>was for</hi> France, Honi soit qui mal y pence.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed, 1671.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
